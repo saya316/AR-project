@@ -1,0 +1,17 @@
+//
+//  AARRTests.swift
+//  AARRTests
+//
+//  Created by 小池紗矢 on 2025/07/28.
+//
+
+import Testing
+@testable import AARR
+
+struct AARRTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
